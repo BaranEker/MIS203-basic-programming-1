@@ -14,7 +14,7 @@ print("x is greater than y:", x > y)
 def is_even(n):
     """_summary_
 
-    Args:
+    Args:"
         n (_type_): _description_
 
     Returns:
@@ -27,5 +27,3 @@ print("x is even:", is_even(x))
 print("y is even:", is_even(y))
 
 is_even(10)
-
-
